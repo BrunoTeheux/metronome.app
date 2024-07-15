@@ -47,16 +47,6 @@ After starting the app, you can:
   - 'F' to increase tempo by 5 BPM
   - 'S' to decrease tempo by 5 BPM
 
-## Contributing
 
-Contributions to improve the metronome app are welcome. Please feel free to submit a Pull Request.
-
-## License
-
-[Add your chosen license here]
-
-## Contact
-
-Bruno Teheux - [Your contact information]
 
 Project Link: [https://github.com/BrunoTeheux/metronome.app](https://github.com/BrunoTeheux/metronome.app)
