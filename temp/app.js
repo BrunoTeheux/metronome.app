@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef, createContext, useContext } from 'react';
-import { Slider } from './components/ui/slider';
-import { Input } from './components/ui/input';
-import { Button } from './components/ui/button';
-import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from './components/ui/select';
+import { Slider } from '@/components/ui/slider';
+import { Input } from '@/components/ui/input';
+import { Button } from '@/components/ui/button';
+import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from '@/components/ui/select';
 
 const LanguageContext = createContext();
 
